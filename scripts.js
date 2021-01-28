@@ -3,7 +3,7 @@ const canvas = document.getElementById("paladinMovie");
 const context = canvas.getContext("2d");
 
 const frameCount = 220;
-const currentFrame = (index) => `paladinJump${index.toString().padStart(4, "0")}.jpg`;
+const currentFrame = (index) => `dist/img/paladinJump${index.toString().padStart(4, "0")}.jpg`;
 
 const preloadImages = () => {
   for (let i = 1; i < frameCount; i++) {
