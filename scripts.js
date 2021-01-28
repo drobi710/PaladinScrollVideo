@@ -1,5 +1,5 @@
 const html = document.documentElement;
-const canvas = document.getElementById("paladinJump");
+const canvas = document.getElementById("paladinMovie");
 const context = canvas.getContext("2d");
 
 const frameCount = 220;
