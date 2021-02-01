@@ -1,4 +1,5 @@
 # PaladinScrollVideo
+https://drobi710.github.io/scrollingAnimation_stopMotionVideo/ <------------click here to view project
 stop motion video controlled by user scroll position.
 
 This project is something that I have dreamed of being able to create for myself for a long time.
